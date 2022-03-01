@@ -9,4 +9,4 @@ This workshop can be done in groups of 2-3 people.
 - Modify a file in the repository and push the modifications
 - Manage conflicts
 - Redo the lab using the command-line interface (CLI)
-- Add something
+- End conflit conflit.
