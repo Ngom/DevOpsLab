@@ -1,4 +1,4 @@
-from src.first_function import *
+from dsti_test.src.first_function import *
 
 # define test function
 def test_answer():
