@@ -1,0 +1,2 @@
+Inside tests forlder, test function call directly function src folder without "scr." with 
+appears in the same place when importing function on DevOps in the workflow.
