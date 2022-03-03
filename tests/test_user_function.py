@@ -1,7 +1,7 @@
 # Tests (copy to tests/test_user_functions.py)
 import pytest
 import io
-from user_functions import *
+from scr.user_functions import *
 
 # email testing
 def test_email_with_user_input_no_at_sign(monkeypatch):
