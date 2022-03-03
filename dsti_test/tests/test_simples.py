@@ -1,4 +1,4 @@
-from ../src.simple_functions import *
+from dsti_test/src.simple_functions import *
 
 # define add test function
 def test_add():
